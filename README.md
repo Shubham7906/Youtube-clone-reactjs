@@ -1,3 +1,10 @@
+# Preview
+![y1](https://github.com/Shubham7906/Youtube-clone-reactjs/assets/76210714/b6672a6b-a5e6-4e83-ae07-9df3d6846124)
+![y2](https://github.com/Shubham7906/Youtube-clone-reactjs/assets/76210714/cc127515-daa3-4552-8f11-d3c9dbac323d)
+![y3](https://github.com/Shubham7906/Youtube-clone-reactjs/assets/76210714/c8fd34c5-a60a-4ad0-aa14-168ae537dbbb)
+![y4](https://github.com/Shubham7906/Youtube-clone-reactjs/assets/76210714/3a4bc88d-9a48-40f7-a9db-fca0656d6c51)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
