@@ -1,4 +1,4 @@
-Built this Youtube Clone Single Page Application using ReactJs, TailwindCSS and the RapidAPI as the data source.
+## Built this Youtube Clone Single Page Application using ReactJs, TailwindCSS and the RapidAPI as the data source.
 
 # Features
 - Video Card
